@@ -1,0 +1,10 @@
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia5\guia5\bin\Debug\guia5.exe.config
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia5\guia5\bin\Debug\guia5.exe
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia5\guia5\bin\Debug\guia5.pdb
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia5\guia5\obj\Debug\guia5.csprojAssemblyReference.cache
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia5\guia5\obj\Debug\guia5.Form1.resources
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia5\guia5\obj\Debug\guia5.Properties.Resources.resources
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia5\guia5\obj\Debug\guia5.csproj.GenerateResource.cache
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia5\guia5\obj\Debug\guia5.csproj.CoreCompileInputs.cache
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia5\guia5\obj\Debug\guia5.exe
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia5\guia5\obj\Debug\guia5.pdb
